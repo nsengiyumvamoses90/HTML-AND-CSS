@@ -1,0 +1,173 @@
+<!DOCTYPE html>
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<title>My first HTML code</title>
+	<section>
+	<h1 style="background-color:green";>welcome back moses</h1>
+    <br></br>
+	<h2 style="color:green";>HTML tutorial</h2>
+</section>
+</head>
+<style>
+    p{background-color:greenyellow;
+        color:brown;
+    }
+</style>
+<body style="background:rgba(100,100,100,1);">
+</body>
+<!--here we create the background of image in our program-->
+
+	<img width="400" height="250" src="MOSES.jpg"; style="border:12px solid yellow;">
+<p style="background-color:red";>
+  In some networks the functionality of the core layer and the distribution layer are often collapsed together.
+ </p>
+
+<p style="color:red ";"><strong>The traditional three-layer hierarchical design model divides the network into core, distribution, and access layers. It provides modularity, resiliency, and flexibility</strong> </p>
+<p> HTML<em> stands for hyper text markup language</em><strong>while</strong><b> CSS</b><em> stands for cascarding style sheet</em></p>
+<p><big>I LOVE to understand</big>  <em> HTML</em> AND <em>CSS</em>&copy</p>
+<p>Developer in USA earn more &dollar;</p>
+<p style="color:green";> I want this year to be good in coding at 80&percnt;</p>
+<p> In order to  work and understand coding you must work hard drink H<sub>2</sub>0.  </p>
+<p>10<sup>3</sup></p>
+<!-- hello my friend are you fine on my side I am doing good -->
+<a href="hhtps://www.google.com" target="_blank"><h3>Google's homepage"</h3>
+	<a href="hhtps://www.uok.ac.rw" target="_blank"><h4>University of kigali homepage</h4>
+		<a href="dir1/ MOSES.jpg" >index.html</a>
+		<img src="" alt="" /> 
+		<img width="600" height="400" src="MOSES.jpg" alt="MOSES photo" style="border:10px solid black" /> 
+        <video width="800" height="600  " src="video tutorial.mp4.mp4"poster="MOSES.jpg" loop controls style="border: 5px double blue"></video>
+        <ul>
+            <!--this is used to list an item with out of ordering-->
+            <li>moses</li>
+            <li>roger</li>
+            <li>diane</li>
+            <li>joshua</li>
+            <li>keza</li>
+        </ul> 
+        <!--this is used for ordering from 1  up to all-->
+        <a href="https://www.youtube.com/" style="color:red; ">click here to go to youtube</a>
+        <ol>
+            <li>apple</li>
+            <li>mango</li>
+            <li>banana</li>
+            <li>avocado</l i>
+        </ol>
+        <ol type="I">
+            <li>apple</li>
+            <ol>
+                <li>item1</li>
+                <li>item2</li>
+                <li>item3</li>
+            </ol>
+            <li>mango</li>
+            <ol>
+                <li> fromKigali</li>
+                <li>from huye</li>
+                <li>from Nyagatare</li>
+            </ol>
+            <li>banana</li> 
+            <li>avocado</li>
+            <dl>
+                <dt> Rwanda</dt>
+                <dd>-from AFRICA</dd>
+                <dt> china</dt>
+                <dd>-from ASIA</dd>
+                <dt>canada</dt>
+                <dd>-from america</dd>
+            </dl>
+        </ol>
+        <table border="1">
+        <thead>
+            <caption><h2><strong>LIST OF MARKS</strong></caption></h2>
+            <tr style="background-color:aquamarine;">
+                <th>IT</th>
+                <th> COMPUTER</th>
+                <th>   FINANCE</th>
+            </tr>    
+        </thead>
+        <tbody>
+
+            <tr>
+                <td>one</td>
+                <td>two</td>
+                <td>three</td>
+            </tr>
+            <tr>
+                <td>  four</td>
+                <td>  five</td>
+                <td>  six</td>
+            </tr>
+            <tr>
+                <td>  seven</td>
+                <td>  eight</td>
+                <td>  nine</td>
+                <tr>
+            </tr>
+        </tbody>
+        </table>
+        <thead>
+            <P style="color:blue;">East african country ranking about population</P>
+            <table border="2">
+            <caption><h2><strong>LIST OF POPULATION</strong></caption></h2>
+            <tr style="color:brown;">
+                <th>KIGALI</th>
+                <th>     KAMPALA</th>
+                <th>     NAIRONI</th>
+            </tr>    
+
+            <tr>
+                <td>1000000</td>
+                <td>2000000</td>
+                <td>45000000</td>
+            </tr>
+            <tr>
+                <td>  50000</td>
+                <td>  70000</td>
+                <td>  8000</td>
+            </tr>
+            <tr>
+                <td>  3000</td>
+                <td>  50000</td>
+                <td>  6000</td>
+                <tr>
+            </tr>
+        </tbody>
+        </table>
+        <P>we are creating link for accessing</P>
+        <hr>
+        <a href="#">link1</a>
+        <a href="#">link2</a>
+        <hr>
+        <span>numbers</span>
+        <span>letters</span>
+       <hr>
+        <div>1.INFORMATION TECHNOLOGY</div>
+        <div>2.COMPUTER SCIENCE</div>
+        <p style="font-size:40px;">As a graphic designer, doing anything in color
+             requires you to be at least somewhat familiarwith the two most common color models: RGB (red, green, blue) 
+             and CMYK (cyan, magenta, yellow, black). Fundamentally,RGB is best for websites and digital communications, 
+              while CMYK is better for print materials.</p>
+              <p style="font-style:italic;">This is how we write our program using CSS  using style.</p>
+              <p style="font-family: sans-serif;">woow this is amazing to work and do alot in order to inprove our skills in order to be good</p>
+        <p style="color:brown";>WE  CAN USE INPUT TAG IN ORDER TO GIVE PERMISSION USER TO INTER ANY THING THEIR WANT</p>
+        <input type="text your name"value="Enter your username" / style="color:blue;" >
+        <input type="password" value="Enter your password" />
+        <div><textarea rows="20" cols="40" ></textarea></div>
+        <div><input type="date" /></div>
+        <div><input type="range" /></div>
+        <div><input type="file" /></div>
+        <input type="checkbox" />
+        <div><input type="checkbox" /></div>
+        <div><input name="btn" type="radio" /></div>
+        <div><input name="btn" type="radio " /></div>
+        <div><input type="submit" /> </div>
+        <div></div><iframe src="https:www.uok.ac.rw/" width="500" height="200">uok website</iframe></thead></div>
+        body {
+        <div><img width="30%" height="200px" src="MOSES.jpg"> 
+        <style=background-color:radial-gradient(cicle 20%,red,blue,green)
+        </div>
+ 	</body>
+</html>
